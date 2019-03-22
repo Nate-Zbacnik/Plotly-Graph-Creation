@@ -1,0 +1,7 @@
+# These programs creates a collection of subplot histograms of offensive and 
+# defensive ratings. The rating system was developed by me. The ratings histograms
+# represent a distribution of skill which a given team can play at These ratings 
+# are for power5/G5 conferences. Teams can be compared in different conferences
+# or across the same conference.
+
+#The paths for the data files that the programs read in will have to be adjusted
